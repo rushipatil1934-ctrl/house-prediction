@@ -34,6 +34,8 @@ The dataset contains housing-related information, including:
 * NumPy
 * Scikit-learn
 * Matplotlib
+* os
+* warning
 * Seaborn
 * Jupyter Notebook
 
