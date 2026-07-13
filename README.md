@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project predicts house prices using Machine Learning based on property features such as location, area, number of bedrooms, bathrooms, property age, and other relevant factors. The goal is to help buyers, sellers, and real estate professionals estimate property values accurately.
+This project will predicts house prices using Machine Learning based on property features such as location, area, number of bedrooms, bathrooms, property age, and other relevant factors. The goal is to help buyers, sellers, and real estate professionals estimate property values accurately.
 
 ## Features
 
